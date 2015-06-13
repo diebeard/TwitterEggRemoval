@@ -1,4 +1,6 @@
-# TwitterEggRemoval
+# Twitter Egg Removal
+
+Sick of spam accounts following you with no Profile Picture? This script will fix that for you and remove each account.
 
 As this code sample uses what data is in the DOM you will need to log into your Twitter account, goto your Followers page and then scroll down your followers so they're loaded into the DOM and the code can action.
 
